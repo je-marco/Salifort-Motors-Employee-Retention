@@ -1,6 +1,31 @@
 # Providing Data-driven Suggestions for Human Resources to Increase Employee Retention
 
 
+## Overview
+
+
+
+## Business Understanding   
+
+
+## Data Understanding
+
+
+## Modeling and Evaluation
+
+
+## Conclusion and Recommendation
+
+
+## Note
+*Throughout this project, you'll see references to the problem-solving framework, PACE. The python notebook components are labeled with the respective PACE stages: Plan, Analyze, Construct, and Execute.*
+
+
+
+Executive summary:
+
+
+
 # Links
 
 * [Project Proposal](https://docs.google.com/document/d/1Lu8Xjy_Gln6fJE_xKtN3JI-zWIcQvUAMUfO61aF2cA8/edit?usp=sharing)
