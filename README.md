@@ -10,7 +10,7 @@ The XGBoost outperforms the other models.  It achieved an AUC score of 90.43% on
 ## Business Understanding   
 The HR department at Salifort Motors wants to take some initiatives to improve employee satisfaction levels at the company and answer the question: **"What's likely to make the employee leave the company?"** 
 
-They surveyed a sample of employees, but now they don't know what to do with the collected data. As a data professional, HR asked for help with the following goals in mind:
+They surveyed a sample of employees, but now they don't know what to do with the collected data. HR asked for help with the following goals in mind:
 1. Analyze the data
 2. Build a model that predicts whether or not an employee will leave the company
 3. Provide data-driven suggestions to improve employee retention
