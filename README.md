@@ -19,7 +19,7 @@ The reason for the predictive model is that if the model can predict employees w
 
 ## Data Understanding
 
-The [data](https://github.com/je-marco/Salifort-Motors-Employee-Retention/blob/35ba2a76da0e1d6cbd07b182b0cb9f98c27e8f27/HR_capstone_dataset.csv) came from a survey that was given by the HR department to a sample of employees. It contains 15,000 rows—each representing one unique employee and 10 columns for the variables. The dataset contains variables that predictive of whether the employee will leave or not, such as the employee's average monthly hours, number of projects, department, satisfaction level, last evaluation score, etc. 
+The [data](https://github.com/je-marco/Salifort-Motors-Employee-Retention/blob/35ba2a76da0e1d6cbd07b182b0cb9f98c27e8f27/HR_capstone_dataset.csv) came from a survey that was given by the HR department to a sample of employees. It contains 15,000 rows—each representing one unique employee and 10 columns for the variables. The dataset contains variables that are predictive of whether the employee will leave or not, such as the employee's average monthly hours, number of projects, department, satisfaction level, last evaluation score, etc. 
 
 The figure below show the distribution of the target variable, employees who left/stayed in the company: 
 
@@ -46,7 +46,7 @@ The model tends to predict more false positives (91) than false negatives (58). 
 Regardless of this tendency, it is important to emphasize that the model is still a reliable tool for understanding and developing a solution to employee turnover.
 
 ## Conclusion and Recommendation
-The results of exploratory data analysis, the modeling effort, and the plot of feature importance extracted from the model show that employees at Salifort Motors are overworked.
+The results of exploratory data analysis and the modeling effort revealed that employees at Salifort Motors are overworked.
 
 To improve employee retention, consider the following recommendations:
 * According to Gallup, about 80% of employees who felt criticized or unmotivated after a performance review started to look for a new job. That is why a more standardized evaluation review is important. Consider making the evaluation review a collaborative and dynamic process that seeks to better the relationship between an employee and a manager. 
