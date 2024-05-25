@@ -64,7 +64,7 @@ To improve employee retention, consider the following recommendations:
 * Regularly conduct employee engagement surveys to gather feedback and identify areas for improvement
 
 ## Note
-*Throughout this project, you'll see references to the problem-solving framework, PACE. The python notebook components are labeled with the respective PACE stages: Plan, Analyze, Construct, and Execute.*
+*Throughout this project, you'll see references to the problem-solving framework, PACE. The [python notebook](https://github.com/je-marco/Salifort-Motors-Employee-Retention/blob/7f4b06e5d394c2eb1e71133a753e29d5421369b6/employee_retention_Salifort_Motors.ipynb) components are labeled with the respective PACE stages: Plan, Analyze, Construct, and Execute.*
 
 
 [Link to the Executive summary](https://docs.google.com/presentation/d/1Lcxk6ODA_UuiC2HJNIebM-Nfddu4N4nelW2qAsNsCzE/edit?usp=sharing)
