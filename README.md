@@ -32,7 +32,9 @@ The data leakage issue was addressed, and actions were taken to minimize its eff
 After conducting feature engineering, the extreme gradient boosting (XGBoost) was chosen as the champion model. On the test set, it achieved an AUC score of 90.43%, which means that the model is highly capable of distinguishing between employees who will leave or stay in the company. Also, the model is a reliable tool for identifying the influential factors behind employee departure and, therefore, a valuable tool for HR in increasing employee retention.
 
 **Feature Importance:**
-![feature_importance_plot]()
+
+![feature_importance_plot](https://github.com/je-marco/Salifort-Motors-Employee-Retention/blob/5db984f0530dfe6d2f9c57e7fb9fe3cb4edbd5c7/feature_importance_3.png)
+
 The plot above shows that `tenure`, `number_project`, `salary`, and `overworked` are the most helpful in predicting whether an employee will leave or stay in the company.
 
 **Confusion Matrix:**
