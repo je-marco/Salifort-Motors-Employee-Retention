@@ -19,7 +19,10 @@ The reason for the predictive model is that if the model can predict employees w
 
 ## Data Understanding
 
-The [data](https://github.com/je-marco/Salifort-Motors-Employee-Retention/blob/35ba2a76da0e1d6cbd07b182b0cb9f98c27e8f27/HR_capstone_dataset.csv) came from a survey that was given by the HR department to a sample of employees. It contains 15,000 rows and 10 columns for the variables. The 
+The [data](https://github.com/je-marco/Salifort-Motors-Employee-Retention/blob/35ba2a76da0e1d6cbd07b182b0cb9f98c27e8f27/HR_capstone_dataset.csv) came from a survey that was given by the HR department to a sample of employees. It contains 15,000 rows—each representing one unique employee and 10 columns for the variables. The dataset contains variables that predictive of whether the employee will leave or not, such as the employee's average monthly hours, number of projects, department, satisfaction level, last evaluation score, etc. 
+
+The figure below show the distribution of the target variable, employees who left/stayed in the company: 
+![pie chart]()
 
 
 ## Modeling and Evaluation
