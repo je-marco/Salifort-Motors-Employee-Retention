@@ -2,9 +2,9 @@
 
 
 ## Overview
-The goal of this project is to analyze the employee dataset and build a predictive model that can provide insights about turnover over Salifort Motors employees. For the purposes of this project, the employee turnover data includes both employees who choose to quit their job and employees who are let go. 
+The goal of this project is to analyze the employee dataset and build a predictive model that can provide insights about turnover of Salifort Motors employees. For the purposes of this project, the employee turnover data includes both employees who choose to quit their job and employees who are let go. 
 
-The XGBoost outperforms the other models.  It achieved an AUC score of 90.43% on the test set, which means that the model is highly capable of distinguishing between employees who will leave or stay in the company.
+The XGBoost outperforms the other models.  It achieved an AUC score of 90.43% on the test set, which means that the model is highly capable of distinguishing between employees who will leave and identify influential factors that contribute to their leaving. The insights from this model will help HR to make decisions to increase employee retention. 
 
 
 ## Business Understanding   
@@ -38,7 +38,9 @@ After conducting feature engineering, the extreme gradient boosting (XGBoost) wa
 The plot above shows that `tenure`, `number_project`, `salary`, and `overworked` are the most helpful in predicting whether an employee will leave or stay in the company.
 
 **Confusion Matrix:**
-![confusion_matrix]()
+
+![confusion_matrix](https://github.com/je-marco/Salifort-Motors-Employee-Retention/blob/a66e80d57e5ccf2bcf24bea3267fd4e8fbc12c96/Confusion_Matrix_xgb3.png)
+
 The model tends to predict more false positives (91) than false negatives (58). This shows that the model may identify that some employees will leave the company when, in reality, they will stay.
 
 Regardless of this tendency, it is important to emphasize that the model is still a reliable tool for understanding and developing a solution to employee turnover.
