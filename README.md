@@ -19,7 +19,7 @@ The reason for the predictive model is that if the model can predict employees w
 
 ## Data Understanding
 
-The dataset contains 15,000 rows and 10 columns for the variables listed below. 
+The [data](https://github.com/je-marco/Salifort-Motors-Employee-Retention/blob/35ba2a76da0e1d6cbd07b182b0cb9f98c27e8f27/HR_capstone_dataset.csv) came from a survey that was given by the HR department to a sample of employees. It contains 15,000 rows and 10 columns for the variables. The 
 
 
 ## Modeling and Evaluation
