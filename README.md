@@ -4,7 +4,7 @@
 ## Overview
 [Link to the Executive summary](https://docs.google.com/presentation/d/1Lcxk6ODA_UuiC2HJNIebM-Nfddu4N4nelW2qAsNsCzE/edit?usp=sharing)
 
-The goal of this project is to analyze the employee dataset and build a predictive model that can provide insights about turnover of Salifort Motors employees. For the purposes of this project, the employee turnover data includes both employees who choose to quit their job and employees who are let go. 
+The goal of this project is to analyze the employee dataset and build a predictive model that can provide insights about turnover of Salifort Motors (* a fictional company*) employees. For the purposes of this project, the employee turnover data includes both employees who choose to quit their job and employees who are let go. 
 
 The XGBoost outperforms the other models.  It achieved an AUC score of 90.43% on the test set, which means that the model is highly capable of distinguishing between employees who will leave and identify influential factors that contribute to their leaving. The insights from this model will help HR to make decisions to increase employee retention. 
 
